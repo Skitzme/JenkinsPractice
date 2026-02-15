@@ -12,7 +12,7 @@ public class First {
         System.out.println("Name: " + name);
         System.out.println("Pi: " + pi);
         System.out.println("setup done: ");
-System.out.println("setup done: ");
+System.out.println("master to main change: ");
         
         // Simple loop
         for (int i = 1; i <= 5; i++) {
